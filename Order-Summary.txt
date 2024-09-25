@@ -1,0 +1,8 @@
+Order Summary
+---------------
+Name: 
+Coffee Type: 
+Size: 
+Total Price: 0
+Instructions: 
+Thank you for Ordering!
